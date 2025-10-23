@@ -82,4 +82,3 @@ Nota: gli smoke test per i player richiedono un ambiente grafico e potrebbero es
 - Migliorare i messaggi di feedback utente e i log delle migrazioni DB
 - Aggiungere esportazione CSV/Excel per le analisi offline
 
-Se vuoi, posso aggiornare questo README con esempi di flusso operativi (es. "Come registrare una partita dall'inizio alla fine") o aggiungere screenshot. Vuoi che li inserisca ora?
